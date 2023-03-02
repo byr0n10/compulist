@@ -33,7 +33,7 @@
     <h1>Lista de 20 razas de perros con imágenes</h1>
     <ul>
       <li>
-        <img src="pitbull.jpeg" height="300px" width="200px alt="Pitbull">
+        <img src="pitbull.jpeg" height="300px"alt="Pitbull" height="300px" width="200px" >
         <h2>Pitbull</h2>
       </li>
       <li>
@@ -41,7 +41,7 @@
         <h2>Bichon Frise</h2>
       </li>
       <li>
-        <img src="dalmata.jpeg" alt="Dálmata">
+        <img src="dalmata.jpeg" alt="Dálmata" height="300px" width="200px ">
         <h2>Dálmata</h2>
       </li>
       <li>
