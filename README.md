@@ -33,7 +33,7 @@
     <h1>Lista de 20 razas de perros con imágenes</h1>
     <ul>
       <li>
-        <img src="pitbull.jpeg" alt="Pitbull">
+        <img src="pitbull.jpeg" height="300px" width="200px alt="Pitbull">
         <h2>Pitbull</h2>
       </li>
       <li>
